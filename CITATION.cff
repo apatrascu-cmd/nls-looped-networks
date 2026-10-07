@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please cite the paper and its computational record."
+type: article
+title: "Isospectrality defect of the nonlinear Schrödinger equation on looped networks: vertex curvature, dressed monodromy, and local integrable junctions"
+authors:
+  - family-names: "Pătrașcu"
+    given-names: "Andrei Tudor"
+    orcid: "https://orcid.org/0000-0003-4566-6319"
+year: 2026
